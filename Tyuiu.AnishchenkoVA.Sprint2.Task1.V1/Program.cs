@@ -22,7 +22,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task1.V1
             Console.WriteLine("* последовательность операций не должна нарушаться), а также              *");
             Console.WriteLine("* арифметических выражений,                                               *");
             Console.WriteLine("* которая вернет логическую последовательность(массив):                   *");
-            Console.WriteLine("* (True, False, True, False, True, False),                                 *");
+            Console.WriteLine("* (True, False, True, False, True, False),                                *");
             Console.WriteLine("* при a = 119, b = 196, c = 134, d = 327                                  *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
