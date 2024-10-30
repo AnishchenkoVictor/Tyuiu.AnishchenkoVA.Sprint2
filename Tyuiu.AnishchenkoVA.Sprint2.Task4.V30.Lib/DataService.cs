@@ -6,7 +6,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task4.V30.Lib
         public double Calculate(double x, double y)
         {
             double z = x * 2 > y? Math.Pow((6 + 4/(x*x)), y) : y + (2/(x*x));
-            return Math.Round(z);
+            return Math.Round(z, 3);
         }
     }
 }
