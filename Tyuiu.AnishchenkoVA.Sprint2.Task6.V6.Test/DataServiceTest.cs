@@ -10,7 +10,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6.Test
             DataService ds = new DataService();
             int x = 13;
             int y = 1;
-            string z = "Король пик";
+            string z = "король пик";
             string res = ds.FindCardNameAndValue(x, y);
             Assert.AreEqual(z, res);
         }
