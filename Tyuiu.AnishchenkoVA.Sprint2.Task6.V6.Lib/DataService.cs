@@ -29,7 +29,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6.Lib
                 case 4: res2 = "черв"; break;
             }
 
-            string res = "дама пик";
+            string res = res1 + " " + res2;
             return res;
 
         }
