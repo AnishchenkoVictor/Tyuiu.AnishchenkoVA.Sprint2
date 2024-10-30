@@ -54,7 +54,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             }
             else
             {
-                Console.WriteLine("Ваша карта: " + ds.FindCardNameAndValue(x, y));
+                Console.WriteLine("Ваша карта: " + res);
             }
             Console.ReadKey();
         }
