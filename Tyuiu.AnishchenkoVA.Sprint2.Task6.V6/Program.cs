@@ -40,22 +40,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            if (((y < 1) || (y > 4)) && ((x < 6) || (x > 14)))
-            {
-                Console.WriteLine("Введенно не верное значение m и k");
-            }
-            else if ((x < 6) || (x > 14))
-            {
-                Console.WriteLine("Введенно не верное значение k");
-            }
-            else if ((y < 1) || (y > 4))
-            {
-                Console.WriteLine("Введенно не верное значение m");
-            }
-            else
-            {
-                Console.WriteLine("Ваша карта: " + res);
-            }
+            Console.WriteLine("Ваша карта: " + res);
             Console.ReadKey()
         }
     }
