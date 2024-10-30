@@ -41,7 +41,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Ваша карта: " + res);
-            Console.ReadKey()
+            Console.ReadKey();
         }
     }
 }
