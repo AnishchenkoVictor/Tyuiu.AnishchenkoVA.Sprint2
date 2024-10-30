@@ -11,9 +11,9 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task5.V2
             Console.Title = "Спринт #2 | Выполнил: Анищенко В. А. | ИИПБ-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
-            Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #11                                                             *");
+            Console.WriteLine("* Тема: Оператор switch                                                   *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #2                                                              *");
             Console.WriteLine("* Выполнил: Анищенко Виктор Александрович | ИИПБ-24-2                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
