@@ -9,23 +9,23 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6.Lib
             switch (value1)
             {
                 case 6: 
-                    res1 = "Шестерка"; break;
+                    res1 = "шестерка"; break;
                 case 7: 
-                    res1 = "Семерка"; break;
+                    res1 = "семерка"; break;
                 case 8: 
-                    res1 = "Восьмерка"; break;
+                    res1 = "восьмерка"; break;
                 case 9: 
-                    res1 = "Девятка"; break;
+                    res1 = "девятка"; break;
                 case 10: 
-                    res1 = "Десятка"; break;
+                    res1 = "десятка"; break;
                 case 11: 
-                    res1 = "Валет"; break;
+                    res1 = "валет"; break;
                 case 12: 
-                    res1 = "Дама"; break;
+                    res1 = "дама"; break;
                 case 13: 
-                    res1 = "Король"; break;
+                    res1 = "король"; break;
                 case 14: 
-                    res1 = "Туз"; break;
+                    res1 = "туз"; break;
 
             }
 

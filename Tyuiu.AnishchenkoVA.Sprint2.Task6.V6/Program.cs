@@ -9,7 +9,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             Console.Title = "Спринт #2 | Выполнил: Анищенко В. А. | ИИПБ-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Получение результата из switch                                                   *");
+            Console.WriteLine("* Тема: Получение результата из switch                                    *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Выполнил: Анищенко Виктор Александрович | ИИПБ-24-2                     *");
@@ -56,6 +56,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             {
                 Console.WriteLine("Ваша карта: " + res);
             }
+            Console.ReadKey()
         }
     }
 }
