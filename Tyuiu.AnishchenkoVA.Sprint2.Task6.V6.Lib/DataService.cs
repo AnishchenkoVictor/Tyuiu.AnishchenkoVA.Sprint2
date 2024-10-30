@@ -37,7 +37,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6.Lib
                 case 2: 
                     res2 = "треф"; break;
                 case 3: 
-                    res2 = "бубн"; break;
+                    res2 = "бубен"; break;
                 case 4: 
                     res2 = "черв"; break;
             }
