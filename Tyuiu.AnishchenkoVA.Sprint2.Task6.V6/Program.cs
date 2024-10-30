@@ -34,7 +34,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
             Console.WriteLine("Введите номер достоинства k (6 <= k <= 14):");
             int x = Convert.ToInt32(Console.ReadLine());
 
-            string res = ds.FindCardNameAndValue(y, x);
+            string res = ds.FindCardNameAndValue(x, y);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
