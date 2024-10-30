@@ -36,6 +36,10 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task6.V6
 
             string res = ds.FindCardNameAndValue(x, y);
 
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("***************************************************************************");
+
             if (((y < 1) || (y > 4)) && ((x < 6) || (x > 14)))
             {
                 Console.WriteLine("Введенно не верное значение m и k");
