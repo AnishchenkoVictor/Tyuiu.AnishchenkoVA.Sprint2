@@ -42,6 +42,8 @@ namespace Tyuiu.AnishchenkoVA.Sprint2.Task7.V3
             {
                 Console.WriteLine("Точка находится не в заштрихованной области.");
             }
+
+            Console.ReadKey();
         }
     }
 }
